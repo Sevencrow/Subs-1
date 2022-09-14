@@ -1,4 +1,4 @@
-# Subs
++# Subs
  字幕文件
-[豆瓣Top250] #1
- 肖申克的救赎 The Shawshank Redemption (1994) 
+[豆瓣Top250] #2
+ 霸王别姬 Farewell My Concubine (1993) 
